@@ -1,0 +1,52 @@
+p {
+    font-size: 1.2rem;
+    font-family: "Lora", serif;
+    line-height: 1.8;
+    margin-bottom: 1em;
+}
+li {
+    font-size: 1.1rem;
+    font-family: "Lora", serif;
+    line-height: 1.6;
+    padding-left: 20px;
+    margin-bottom: 0.8em;
+}
+
+.steps li {
+    padding: 0.3em 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+h2.margin-bottom {
+    font-size: 1.75rem;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    margin-bottom: 3.0em;
+    text-align: center;
+    
+}
+
+h2 {
+    font-size: 1.75rem;
+    font-family: "Playfair Display", serif;
+    font-weight: bold; 
+}
+
+.section {
+    margin-bottom: 5rem; /* Adds space between sections */
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    display: inline-block;
+}
